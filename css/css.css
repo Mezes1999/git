@@ -1,0 +1,24 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1
+{
+    color: white;
+    background-color: #555;
+}
+h2
+{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 1000px;
+    height: 200px;
+    background-color: coral;
+    color: white;
+    padding: 100px;
+    text-align: center;
+    padding-top: 200px;
+
+}
